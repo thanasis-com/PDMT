@@ -1,5 +1,5 @@
-\name{PDMT-package}
-\alias{PDMT-package}
+\name{PDMT}
+\alias{PDMT}
 \alias{PDMT}
 \docType{package}
 \title{
@@ -28,7 +28,6 @@ Athanasios Tsiaras: <tsiarasa@hotmail.com>
 \keyword{ package }
 \seealso{
 
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
 naFeatures(myData)
