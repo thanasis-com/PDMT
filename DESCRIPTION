@@ -1,9 +1,11 @@
 Package: PDMT
 Type: Package
-Title: What the package does (short line)
+Title: Powerful Data Manipulation Tools
 Version: 1.0
 Date: 2016-02-24
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Athanasios Tsiaras
+Maintainer: tsiarasa@hotmail.com
+Description: Provides functions for automating some useful data manipulation and
+    transformation tasks
+License: GPL (>= 2)
+RoxygenNote: 5.0.1.9000
