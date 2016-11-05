@@ -8,4 +8,4 @@ Maintainer: Athanasios Tsiaras <tsiarasa@hotmail.com>
 Description: Provides functions for automating some useful data manipulation and
     transformation tasks
 License: GPL (>= 2)
-RoxygenNote: 5.0.1.9000
+RoxygenNote: 5.0.1

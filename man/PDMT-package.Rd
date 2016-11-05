@@ -6,7 +6,7 @@
 Powerful Data Manipulation Tools
 }
 \description{
-Provides functions for automating some useful data manipulation and transformation tasks
+Provides functions for automating some useful data manipulation and transformation tasks.
 }
 \details{
 \tabular{ll}{
